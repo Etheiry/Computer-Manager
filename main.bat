@@ -3,6 +3,7 @@
 echo Commands:
 echo		takeowner 			Take ownership of folder
 echo		kill 				kill any application
+echo		numgen				Number Generator
 echo.
 echo.
 
